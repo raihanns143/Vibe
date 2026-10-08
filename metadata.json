@@ -1,0 +1,6 @@
+{
+  "name": "Vibe - Modern Social Platform",
+  "description": "A responsive frontend-only social platform demo with feeds, profiles, messaging, notifications, bookmarks, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
